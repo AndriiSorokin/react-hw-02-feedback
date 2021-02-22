@@ -2,7 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Section = ({ title, children }) => {
-  return <div>{children}</div>;
+  return (
+    <div>
+      <h1>{title}</h1>
+      {children}
+    </div>
+  );
 };
 
 Section.propTypes = {};

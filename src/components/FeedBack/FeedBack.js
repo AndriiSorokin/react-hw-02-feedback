@@ -42,8 +42,7 @@ class FeedBack extends Component {
               updateValue={this.updateValue}
             />
           </Section>
-
-          <Section>
+          <Section title={'Statistic:'}>
             {this.countTotalFeedback() > 0 ? (
               <Statistics
                 good={good}

@@ -5,7 +5,7 @@ import FeedBack from '../FeedBack/FeedBack';
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => {
   return (
     <div>
-      <h2>Statistic:</h2>
+
       <p>good:{good}</p>
       <p>bad:{bad}</p>
       <p>neutral:{neutral}</p>
