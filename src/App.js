@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import FeedBack from './components/FeedBack';
+import FeedBack from './components/FeedBack/FeedBack';
 
 class App extends Component {
   render() {
