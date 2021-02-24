@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/FeedBackOptions/FeedBackOptions.module.css"],"names":[],"mappings":"AAAA,oCACE,UAAW,CACX,WAAY,CACZ,iBACF","file":"main.1730fcac.chunk.css","sourcesContent":[".feedBackBtn {\n  width: 80px;\n  height: 40px;\n  margin-right: 10px;\n}"]}
